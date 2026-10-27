@@ -19,8 +19,8 @@ Because of these custom additions (custom map sizes, symmetric terrain brushes, 
 ## How to use the Fork's Custom Features
 To take advantage of the custom map sizes, the symmetric terrain brush, and the AI generation, you MUST select the **Template = Blank Sand** when creating a new map. The original procedural templates (like 8x8 or 16x16) do not support custom dimensions or the terrain brush.
 
-## Featured Map: Castle Defense v2
-This project was originally created to build **Castle Defense v2**, the author's first map.
+## Featured Map: Castle Defense
+This project was originally created to build **Castle Defense**, the author's first map.
 - **Theme:** Inspired by castle defense and siege themes.
 - **Vision:** The author enjoys fortress aesthetics and plans to create more "cozy" maps where players can feel protected, comfortable, and genuinely enjoy the defensive (porc) aspect of Zero-K, not just the combat.
 
